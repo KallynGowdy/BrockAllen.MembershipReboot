@@ -145,16 +145,16 @@
     <value>Code required.</value>
   </data>
   <data name="EmailAlreadyInUse" xml:space="preserve">
-    <value>Email already in use.</value>
+    <value>The given email address is already in use.</value>
   </data>
   <data name="EmailRequired" xml:space="preserve">
-    <value>Email is required.</value>
+    <value>The email address field is required.</value>
   </data>
   <data name="InvalidCertificate" xml:space="preserve">
     <value>Invalid certificate.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
-    <value>Invalid email.</value>
+    <value>The given email address is invalid.</value>
   </data>
   <data name="InvalidKey" xml:space="preserve">
     <value>Invalid key.</value>
@@ -163,16 +163,16 @@
     <value>Invalid name.</value>
   </data>
   <data name="InvalidNewPassword" xml:space="preserve">
-    <value>Invalid new password.</value>
+    <value>The new password is invalid.</value>
   </data>
   <data name="InvalidOldPassword" xml:space="preserve">
-    <value>Invalid old password.</value>
+    <value>The old password is invalid.</value>
   </data>
   <data name="InvalidPassword" xml:space="preserve">
-    <value>Invalid password.</value>
+    <value>The given password is invalid.</value>
   </data>
   <data name="InvalidPhone" xml:space="preserve">
-    <value>Invalid phone number.</value>
+    <value>The phone number is invalid.</value>
   </data>
   <data name="InvalidQuestionOrAnswer" xml:space="preserve">
     <value>Invalid secret question or answer.</value>
@@ -181,7 +181,7 @@
     <value>Invalid tenant.</value>
   </data>
   <data name="InvalidUsername" xml:space="preserve">
-    <value>Invalid username.</value>
+    <value>The given username is invalid.</value>
   </data>
   <data name="LinkedAccountAlreadyInUse" xml:space="preserve">
     <value>The external account is already associated with another user.</value>
@@ -190,22 +190,22 @@
     <value>Can't login with this provider because the email is already associated with another account. Please login with your local account and then associate the provider.</value>
   </data>
   <data name="LoginNotAllowed" xml:space="preserve">
-    <value>Login not allowed for this account.</value>
+    <value>Login access has been denied for this account.</value>
   </data>
   <data name="MobilePhoneAlreadyInUse" xml:space="preserve">
-    <value>That mobile phone is already in use by a different account.</value>
+    <value>The mobile phone number is already in use by a different account.</value>
   </data>
   <data name="MobilePhoneMustBeDifferent" xml:space="preserve">
-    <value>Mobile phone number must be different then the current.</value>
+    <value>The mobile phone number must be different than the current.</value>
   </data>
   <data name="MobilePhoneRequired" xml:space="preserve">
-    <value>Mobile phone number required.</value>
+    <value>A mobile phone number is required.</value>
   </data>
   <data name="NameAlreadyInUse" xml:space="preserve">
-    <value>That name is already in use.</value>
+    <value>The given name is already in use.</value>
   </data>
   <data name="NameRequired" xml:space="preserve">
-    <value>Name is required.</value>
+    <value>A name is required.</value>
   </data>
   <data name="NewPasswordMustBeDifferent" xml:space="preserve">
     <value>The new password must be different than the old password.</value>
@@ -223,7 +223,7 @@
     <value>Password must be at least {0} characters long.</value>
   </data>
   <data name="PasswordRequired" xml:space="preserve">
-    <value>Password is required.</value>
+    <value>The password field is required.</value>
   </data>
   <data name="PasswordResetErrorNoEmail" xml:space="preserve">
     <value>Password reset is not possible since there is no verified email address for this account.</value>
@@ -247,21 +247,21 @@
     <value>Tenant is required.</value>
   </data>
   <data name="UsernameAlreadyInUse" xml:space="preserve">
-    <value>Username already in use.</value>
+    <value>The given username is already in use.</value>
   </data>
   <data name="UsernameCannotContainAtSign" xml:space="preserve">
-    <value>Username cannot contain the '@' character.</value>
+    <value>Usernames cannot contain the '@' character.</value>
   </data>
   <data name="UsernameCanOnlyStartOrEndWithLetterOrDigit" xml:space="preserve">
-    <value>Username can begin or end only with a letter or digit.</value>
+    <value>Usernames can begin or end only with a letter or digit.</value>
   </data>
   <data name="UsernameOnlyContainsValidCharacters" xml:space="preserve">
-    <value>Username can only contain letters, digits, spaces, periods, dashes or underscores.</value>
+    <value>Usernames can only contain letters, digits, spaces, periods, dashes or underscores.</value>
   </data>
   <data name="UsernameRequired" xml:space="preserve">
-    <value>Username is required.</value>
+    <value>The username field is required.</value>
   </data>
   <data name="UsernameCannotRepeatSpecialCharacters" xml:space="preserve">
-    <value>Username cannot have two spaces, periods, dashes or underscores next to one another.</value>
+    <value>Usernames cannot have two spaces, periods, dashes or underscores next to one another.</value>
   </data>
 </root>
